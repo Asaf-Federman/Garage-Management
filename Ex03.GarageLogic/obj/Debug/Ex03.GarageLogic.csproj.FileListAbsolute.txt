@@ -1,0 +1,7 @@
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb

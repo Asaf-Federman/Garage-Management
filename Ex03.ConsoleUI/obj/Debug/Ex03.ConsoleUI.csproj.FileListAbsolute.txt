@@ -1,0 +1,11 @@
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\git\C#\שנה ב סמסטר ב\B19 Ex03 AsafFederman 311331847 YogevSagron 312412067\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
